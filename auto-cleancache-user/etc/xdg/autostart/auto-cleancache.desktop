@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[pt_BR]=
+Comment=
+Exec=find ~/.cache/ -type f -mtime +30 -delete
+GenericName[pt_BR]=
+GenericName=
+MimeType=
+Name[pt_BR]=CleanCache
+Name=CleanCache
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
